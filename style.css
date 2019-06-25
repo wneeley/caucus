@@ -1,0 +1,20 @@
+.blue-text-plain {color:#102346;
+}
+
+.blue-text {color:#102346;
+}
+
+.red-text {color:#aa2e2d;;}
+
+
+.blue-text:hover {color:#aa2e2d; 
+}
+
+
+.blue-button {background-color: #102346;
+}
+    
+h1 {
+    margin-top: 0;
+    padding-top: 0;
+}
